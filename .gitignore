@@ -6,7 +6,8 @@ TAGS
 /dist/*
 /test/src/Driver*
 /test/dist/*
-/deps/hfuse/dist
+/deps/hfuse/dis
 /deps/hfuse/examples/HelloFS
+/deps/hfuse/examples/BindFS
 /cabal-dev/*
 
